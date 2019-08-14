@@ -13,14 +13,17 @@
 **Слава:** глас 8-й: **Святии маккавеи**. На стиховне стихиры Октоиха. 
 **Слава:** глас 8-й: **Души праведных**. 
 
-Отпустительный, глас 8-й: 
+Отпустительный, глас 8-й: **Закона хранители**
 
-*Οἱ τοῦ νόμου φύλακες, καὶ πρὸ τῆς χάριτος μάρτυρες, διάβολον καὶ τύραννον ἐν τῇ 
-ὑπομονῇ τῶν βασάνων ἐτροπώσαντο, ϑεσμοῖς παρτιχοῖς, καὶ στοργῇ ἀδελφότητος, τὴν 
+*Οἱ τοῦ νόμου φύλακες, καὶ πρὸ τῆς χάριτος μάρτυρες, διάβολον καὶ τύραννον ἐν τῇ
+ὑπομονῇ τῶν βασάνων ἐτροπώσαντο, ϑεσμοῖς παρτιχοῖς, καὶ στοργῇ ἀδελφότητος, τὴν
 φύσιν ὑποϑήξαντες, ταῖς αὐτῶν ἱκεσίασις Χριστὲ ὁ Θεὸς ἑλέηςον ἡμᾶς*
 
 ```
-Oi$ tou~ vo'mou фu'lakec, kai` pro` th~c хa'ritoc ma'rturec, dia'bolov kai` tu'ravvov e^v th~/ u$pomovh~/ tw~v basa'vwv e^tropw'savto, qesmoi~c partiхoi~c, kai` storgh~/ a^delфo'thtoc, th`v фu'siv u$poqh'xavtec, tai~c au^tw~v i$kesi'asic Хriste` o$ Qeo`c e$le'hcov h$ma~c
+Oi$ tou~ vo'mou фu'lakec, kai` pro` th~c хa'ritoc ma'rturec, dia'bolov
+kai` tu'ravvov e^v th~/ u$pomovh~/ tw~v basa'vwv e^tropw'savto,
+qesmoi~c partiхoi~c, kai` storgh~/ a^delфo'thtoc, th`v фu'siv u$poqh'xavtec,
+tai~c au^tw~v i$kesi'asic Хriste` o$ Qeo`c e$le'hcov h$ma~c
 ```
 
 
