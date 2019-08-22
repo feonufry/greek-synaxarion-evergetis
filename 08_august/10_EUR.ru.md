@@ -37,8 +37,12 @@
 
 ---
 
-Χρη δε γινωσκειν, οτι οιαν δ' αν ημεραν Μεϑεορτα τυῃ σαββατῳ γενεσϑαι, πασα η ακολουϑια της ημερας εν τῃ λειτουργιᾳ γινεται, ηγουν νεκρωσιμος· ομοιως δε και τῃ εσπερᾳ και τῳ πρωο ψαλλομεν τα μαρτυρικα στιχηρα συν τοις νεκρωσιμοις, πλην κανονα νεκρωσιμον εν τῳ ορϑρῳ ου ψαλλομεν, αλλ' η μονον εις την παννυχιδα εν τοις ταφοις, ως συνηϑες. Ει δε και κυριαχῃ λαχῃ, ψαλλονται παντα τα αναστασιμα, οι τε κανονες και τα στιχηρα μετα της εορτης· εις δε την λειτουργιαν, ψαλλεται η ακολουϑια της κυραικης.
+Подобает же знать, что если день праздника придется в субботу, все
+последование дня на Литургии совершается, т.е. заупокой: подобно же
+и на вечерне и утром поются стихиры мученичные с заупокойными;
+однако канон заупокойный на утрене не поется, но лишь на паннихиде во
+усыпальнице, по обычаю.
 
----
-
-Хrh de givwskeiv, oti oiav d@ av hmerav Meqeorta tuh/ sabbatw/ gevesqai, pasa h akolouqia thc hmerac ev th/ leitourgia/ givetai, hgouv vekrwsimoc: omoiwc de kai th/ espera/ kai tw/ prwo jallomev ta marturika stiхhra suv toic vekrwsimoic, plhv kavova vekrwsimov ev tw/ orqrw/ ou jallomev, all@ h movov eic thv pavvuхida ev toic taфoic, wc suvhqec. Ei de kai kuriaхh/ laхh/, jallovtai pavta ta avastasima, oi te kavovec kai ta stiхhra meta thc eorthc: eic de thv leitourgiav, jalletai h akolouqia thc kuraikhc.
+Если же придется в воскресенье, все воскресное: каноны ли, или стихиры,
+-- поется вместе с праздничными. На Литургии же поется последование
+воскресное.
