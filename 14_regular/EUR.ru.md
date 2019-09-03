@@ -101,13 +101,14 @@
 монастыря Студитова, не поют изобразительны на Литургии, но после отпущения 
 9-го часа, тогда поют изобразительны, чтобы принять антидор.
 
-Мы же 
+Мы же, по причине того, что во все дни почти все причащаемся Божественных Таин, 
+пожелали назначить пение изобразительных в келлиях
 
-Ημεις δε, δια το καϑωκαστην σχεδον παντας μεταλαμβανειν των ϑειων μυστηριων, δεον εκριναμεν ψαλλειν τα τυπιλα εν τοις 
+Ημεις δε, δια το καϑεκαστην σχεδον παντας μεταλαμβανειν των ϑειων μυστηριων, δεον εκριναμεν ψαλλειν τα τυπιλα εν τοις 
 κελλιοις αυτων και διακλυεσϑαι τους αδελφους μετα την της ϑειας ιερουργιας συμπληρωσιν, πλην συντομως και επειτα ψαλλειν 
 την ϑʹ ωραν, ως ηδη ρηϑησεται.
 
-Hmeic de, dia to kaqwkasthv sхedov pavtac metalambaveiv twv qeiwv musthriwv, deov ekrivamev jalleiv ta tupila ev toic 
+Hmeic de, dia to kaqekasthv sхedov pavtac metalambaveiv twv qeiwv musthriwv, deov ekrivamev jalleiv ta tupila ev toic 
 kellioic autwv kai diakluesqai touc adelфouc meta thv thc qeiac ierourgiac sumplhrwsiv, plhv suvtomwc kai epeita jalleiv 
 thv q# wrav, wc hdh rhqhsetai.
   
