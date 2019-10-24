@@ -25,21 +25,27 @@
 
 *Понедельник*
 - [Еверг.](B_02_EUR_easter_week.ru.md#Понедельник)
+- [Мессин.](B_02_MES_easter_week.ru.md#Понедельник)
 
 *Вторник*
 - [Еверг.](B_02_EUR_easter_week.ru.md#Вторник)
+- Собор Пресвятой Богородицы. [Мессин.](B_02_MES_easter_week.ru.md#Вторник)
 
 *Среда*
 - [Еверг.](B_02_EUR_easter_week.ru.md#Среда)
+- [Мессин.](B_02_MES_easter_week.ru.md#Среда)
 
 *Четверг*
 - [Еверг.](B_02_EUR_easter_week.ru.md#Четверг)
+- [Мессин.](B_02_MES_easter_week.ru.md#Четверг)
 
 *Пятница*
 - [Еверг.](B_02_EUR_easter_week.ru.md#Пятница)
+- [Мессин.](B_02_MES_easter_week.ru.md#Пятница)
 
 *Суббота*
 - [Еверг.](B_02_EUR_easter_week.ru.md#Суббота)
+- [Мессин.](B_02_MES_easter_week.ru.md#Суббота)
 
 **Новая неделя, Антипасхи**
 
