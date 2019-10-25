@@ -19,6 +19,7 @@
 
 - [Алексия Студита](B_01_AST_easter_sunday.ru.md)
 - [Еверг.](B_01_EUR_easter_sunday.ru.md)
+- [Мессин.](B_01_MES_easter_sunday.ru.md)
 - [Георг.Мтацминдели](B_01_GMT_easter_sunday.ru.md)
 
 **Светлая седмица**
@@ -50,6 +51,7 @@
 **Новая неделя, Антипасхи**
 
 - [Еверг.](B_03_EUR_thomas_sunday.ru.md)
+- [Мессин.](B_03_MES_thomas_sunday.ru.md)
 
 **2-я седмица по Пасхе**
 
