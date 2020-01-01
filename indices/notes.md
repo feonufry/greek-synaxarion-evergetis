@@ -16,3 +16,4 @@
 --- 
 
 https://www.bible.in.ua/underl/index.htm?NT/Mk?6
+http://glt.goarch.org/#06
