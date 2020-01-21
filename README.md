@@ -7,6 +7,7 @@
 - [Октябрь](10_october/README.md)
 - [Ноябрь](11_november/README.md)
 - [Декабрь](12_december/README.md)
+- [Январь](01_january/README.md)
 
 ## Триодная часть
 
