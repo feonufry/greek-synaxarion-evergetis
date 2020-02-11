@@ -27,6 +27,7 @@
 **Суббота мясопустная**
 
 - [Алексия Студита](A_03_AST_prep_saturday3.md)
+- [Еверг.](A_03_EUR_prep_saturday3.md)
 - [Мессин.](A_03_MES_prep_saturday3.md)
 
 ## Пятидесятница
