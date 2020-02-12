@@ -8,9 +8,11 @@
 - [Ноябрь](11_november/README.md)
 - [Декабрь](12_december/README.md)
 - [Январь](01_january/README.md)
+- [Февраль](02_february/README.md)
 
 ## Триодная часть
 
+- [Четыредесятница](13_moving_cycle/README.md#Четыредесятница)
 - [Пятидесятница](13_moving_cycle/README.md#Пятидесятница)
 
 ## Богослужебные главы
