@@ -216,6 +216,11 @@
 - [Еверг.](A_20_EUR_great_tuesday.md)
 - [Мессин.](A_20_MES_great_tuesday.md)
 
+**Святая и Великая Среда**
+
+- [Еверг.](A_21_EUR_great_wednesday.md)
+- [Мессин.](A_21_MES_great_wednesday.md)
+
 ## Пятидесятница
 
 **Неделя Пасхи**
