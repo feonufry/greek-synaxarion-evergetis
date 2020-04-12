@@ -221,6 +221,11 @@
 - [Еверг.](A_21_EUR_great_wednesday.md)
 - [Мессин.](A_21_MES_great_wednesday.md)
 
+**Святой и Великий Четверг**
+
+- [Еверг.](A_22_EUR_great_thursday.md)
+- [Мессин.](A_22_MES_great_thursday.md)
+
 ## Пятидесятница
 
 **Неделя Пасхи**
