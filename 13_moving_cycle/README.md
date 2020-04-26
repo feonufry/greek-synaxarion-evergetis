@@ -238,26 +238,32 @@
 **Светлая седмица**
 
 *Понедельник*
+- [Алексия Студита](B_02_AST_easter_week.ru.md#Понедельник)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Понедельник)
 - [Мессин.](B_02_MES_easter_week.ru.md#Понедельник)
 
 *Вторник*
+- [Алексия Студита](B_02_AST_easter_week.ru.md#Вторник)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Вторник)
 - Собор Пресвятой Богородицы. [Мессин.](B_02_MES_easter_week.ru.md#Вторник)
 
 *Среда*
+- [Алексия Студита](B_02_AST_easter_week.ru.md#Среда)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Среда)
 - [Мессин.](B_02_MES_easter_week.ru.md#Среда)
 
 *Четверг*
+- [Алексия Студита](B_02_AST_easter_week.ru.md#Четверг)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Четверг)
 - [Мессин.](B_02_MES_easter_week.ru.md#Четверг)
 
 *Пятница*
+- [Алексия Студита](B_02_AST_easter_week.ru.md#Пятница)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Пятница)
 - [Мессин.](B_02_MES_easter_week.ru.md#Пятница)
 
 *Суббота*
+- [Алексия Студита](B_02_AST_easter_week.ru.md#Суббота)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Суббота)
 - [Мессин.](B_02_MES_easter_week.ru.md#Суббота)
 
