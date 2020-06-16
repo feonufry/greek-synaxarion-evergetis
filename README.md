@@ -11,7 +11,7 @@
 - [Февраль](02_february/README.md)
 - [Март](03_march/README.md)
 - [Апрель](04_april/README.md)
-- Май
+- [Май](05_may/README.md)
 - [Июнь](06_june/README.md)
 
 ## Триодная часть
