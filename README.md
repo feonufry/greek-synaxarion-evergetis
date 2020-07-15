@@ -13,6 +13,8 @@
 - [Апрель](04_april/README.md)
 - [Май](05_may/README.md)
 - [Июнь](06_june/README.md)
+- [Июль](07_july/README.md)
+- [Август](08_august/README.md)
 
 ## Триодная часть
 
