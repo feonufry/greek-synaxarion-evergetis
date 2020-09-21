@@ -208,3 +208,4 @@
 - [Георг.Мтацминдели](08_31_GMT.ru.md)
 
 [← Июль](../07_july/README.md) | [Содержание](../README.md) | [Сентябрь →](../09_september/README.md) 
+| [Триодный цикл →](../13_moving_cycle/README.md) 
