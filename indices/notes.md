@@ -13,6 +13,9 @@
 
 - ̓́Αγομεν γὰρ ἀργίαν τῶν ὡρῶν.- ([10.12](../12_december/12_10_EUR.ru.md))
 
+- σημᾶναι - знаменание?
+- 
+
 --- 
 
 https://www.bible.in.ua/underl/index.htm?NT/Mk?6
