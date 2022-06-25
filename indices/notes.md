@@ -20,3 +20,8 @@
 
 https://www.bible.in.ua/underl/index.htm?NT/Mk?6
 http://glt.goarch.org/#06
+
+---
+
+λιτῶς - просто
+μετὰ μεγαλείου (о входе) - торжественно
