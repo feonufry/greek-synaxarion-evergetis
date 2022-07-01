@@ -246,6 +246,7 @@
 
 **Неделя Пасхи**
 
+- [ТВЦ](B_01_GE_easter_sunday.md)
 - [Алексия Студита](B_01_AST_easter_sunday.ru.md)
 - [Еверг.](B_01_EUR_easter_sunday.ru.md)
 - [Мессин.](B_01_MES_easter_sunday.ru.md)
