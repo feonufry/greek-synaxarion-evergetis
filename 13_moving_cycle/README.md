@@ -279,6 +279,7 @@
 - [Мессин.](B_02_MES_easter_week.ru.md#Четверг)
 
 *Пятница*
+- Свв. и первоверховных апп. Петра и Павла [ТВЦ](B_02_GE_easter_week.md#Пятница)
 - [Алексия Студита](B_02_AST_easter_week.ru.md#Пятница)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Пятница)
 - [Мессин.](B_02_MES_easter_week.ru.md#Пятница)
