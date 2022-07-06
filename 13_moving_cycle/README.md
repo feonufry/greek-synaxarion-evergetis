@@ -292,6 +292,7 @@
 - [Мессин.](B_02_MES_easter_week.ru.md#Суббота)
 
 **Новая неделя, Антипасхи**
+- [ТВЦ](B_03_GE_thomas_sunday.md)
 - [Алексия Студита](B_03_AST_thomas_sunday.ru.md)
 - [Еверг.](B_03_EUR_thomas_sunday.ru.md)
 - [Мессин.](B_03_MES_thomas_sunday.ru.md)
