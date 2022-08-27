@@ -3,6 +3,8 @@
 
 ## Месяцеслов
 
+[Система знаков](signs.md)
+
 - [Сентябрь](09_september/README.md)
 - [Октябрь](10_october/README.md)
 - [Ноябрь](11_november/README.md)
