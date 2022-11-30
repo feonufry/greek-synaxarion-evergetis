@@ -28,7 +28,9 @@
 - [Устав Алексия Студита](chapters/AST/README.md)
 - [Евергетидский устав](14_regular/EUR.ru.md)
 - [Мессинский устав](chapters/MES/README.md)
-
+- Иерусалимский устав: 
+  - [Син.328, Син.329](chapters/SAB/Sin_328_329/README.md)
+  
 ## Дополнительно
 
 - [Октоих](suppl/Oktoechos/README.md)
