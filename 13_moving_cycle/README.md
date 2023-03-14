@@ -524,6 +524,7 @@
 **Вечерня Пятидесятницы**
 - [Алексия Студита](B_16_AST_sunday8_evening.ru.md)
 - [Еверг.](B_16_EUR_sunday8_evening.ru.md)
+- [Мессин.](B_16_MES_sunday8_evening.ru.md) (закончить!)
 
 **8-я седмица по Пасхе**
 
