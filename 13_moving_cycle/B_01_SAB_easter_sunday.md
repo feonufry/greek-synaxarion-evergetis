@@ -255,4 +255,4 @@
 **Господи помилуй** (40).
 Отпуст.
 
-[← Великая Суббота ](A_24_SAB_great_saturday.md) | [Триодь](README.md) | [Светлая седмица →](B_02_SAB_easter_week.ru.md)
+[← Великая Суббота ](A_24_SAB_great_saturday.md) | [Триодь](README.md) | [Светлая седмица →](B_02_SAB_easter_week.md)

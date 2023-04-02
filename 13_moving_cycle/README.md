@@ -292,12 +292,14 @@
 - [Алексия Студита](B_02_AST_easter_week.ru.md#Понедельник)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Понедельник)
 - [Мессин.](B_02_MES_easter_week.ru.md#Понедельник)
+- [Иерус.](B_02_SAB_easter_week.md#Понедельник)
 
 *Вторник*
 - Собор Богородицы во Влахернах/Халкопратии [ТВЦ](B_02_GE_easter_week.md#Вторник)
 - [Алексия Студита](B_02_AST_easter_week.ru.md#Вторник)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Вторник)
 - Собор Пресвятой Богородицы. [Мессин.](B_02_MES_easter_week.ru.md#Вторник)
+- [Иерус.](B_02_SAB_easter_week.md#Вторник)
 
 *Среда*
 - Собор Богородицы в Халкопратии/Влахернах [ТВЦ](B_02_GE_easter_week.md#Среда).
@@ -305,24 +307,28 @@
 - [Алексия Студита](B_02_AST_easter_week.ru.md#Среда)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Среда)
 - [Мессин.](B_02_MES_easter_week.ru.md#Среда)
+- [Иерус.](B_02_SAB_easter_week.md#Среда)
 
 *Четверг*
 - Собор свв. апп. Иоанна Евангелиста и Иакова, брата его [ТВЦ](B_02_GE_easter_week.md#Четверг)
 - [Алексия Студита](B_02_AST_easter_week.ru.md#Четверг)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Четверг)
 - [Мессин.](B_02_MES_easter_week.ru.md#Четверг)
+- [Иерус.](B_02_SAB_easter_week.md#Четверг)
 
 *Пятница*
 - Свв. и первоверховных апп. Петра и Павла [ТВЦ](B_02_GE_easter_week.md#Пятница)
 - [Алексия Студита](B_02_AST_easter_week.ru.md#Пятница)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Пятница)
 - [Мессин.](B_02_MES_easter_week.ru.md#Пятница)
+- [Иерус.](B_02_SAB_easter_week.md#Пятница)
 
 *Суббота*
 - [ТВЦ](B_02_GE_easter_week.md#Суббота). Также: св. прор. Предтечи и Крестителя Иоанна
 - [Алексия Студита](B_02_AST_easter_week.ru.md#Суббота)
 - [Еверг.](B_02_EUR_easter_week.ru.md#Суббота)
 - [Мессин.](B_02_MES_easter_week.ru.md#Суббота)
+- [Иерус.](B_02_SAB_easter_week.md#Суббота)
 
 **Новая неделя, Антипасхи**
 - [ТВЦ](B_03_GE_thomas_sunday.md)
