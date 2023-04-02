@@ -283,6 +283,7 @@
 - [Еверг.](B_01_EUR_easter_sunday.ru.md)
 - [Мессин.](B_01_MES_easter_sunday.ru.md)
 - [Георг.Мтацминдели](B_01_GMT_easter_sunday.ru.md)
+- [Иерус.](B_01_SAB_easter_sunday.md)
 
 **Светлая седмица**
 
