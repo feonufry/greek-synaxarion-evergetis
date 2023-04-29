@@ -335,6 +335,7 @@
 - [Алексия Студита](B_03_AST_thomas_sunday.ru.md)
 - [Еверг.](B_03_EUR_thomas_sunday.ru.md)
 - [Мессин.](B_03_MES_thomas_sunday.ru.md)
+- [Иерус.](B_03_SAB_thomas_sunday.md)
 
 **2-я седмица по Пасхе**
 
