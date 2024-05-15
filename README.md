@@ -31,6 +31,7 @@
 - [Мессинский устав](chapters/MES/README.md)
 - Иерусалимский устав: 
   - [Син.328, Син.329](chapters/SAB/Sin_328_329/README.md)
+  - [Око Церковное (выдержки)](chapters/SAB/oko/README.md)
   
 ## Дополнительно
 
